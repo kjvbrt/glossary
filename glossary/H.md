@@ -7,7 +7,7 @@ Like the «ECAL», it is a sampling calorimeter made of layers of iron and plast
 
 ## HLT: High Level Trigger {#HLT}
 
-Software trigger. Software that decides if data from the detectore gets written to storage or thrown away.
+Software trigger. Software that decides if data from the detectore gets written to storage or thrown away. Trigger Studies for FCC are in its early stages and no implementations exist yet
 
 ## HS06
 HEP-wide benchmark for measuring CPU performance based on the [SPEC2006 benchmark](https://www.spec.org).
@@ -17,4 +17,4 @@ The [HSF](https://hepsoftwarefoundation.org/) facilitates coordination and commo
 
 ## HTCondor
 
-Formerly Condor. Backend for [CERN's batch service](http://information-technology.web.cern.ch/services/batch). Use `Condor` backend in Ganga.
+Formerly Condor. Backend for [CERN's batch service](http://information-technology.web.cern.ch/services/batch).
