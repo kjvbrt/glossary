@@ -6,7 +6,7 @@
   "plugins": [
     "-sharing",
     "panels@git+https://github.com/HEP-FCC/gitbook-plugin-panels.git#master",
-    "katex-auto-render@git+https://github.com/HEP-FCC/gitbook-plugin-katex-auto-render.git#master",
+    "katex-auto-render@git+https://github.com/lhcb/gitbook-plugin-katex-auto-render.git#master",
     "replace",
     "collapsible-menu",
     "otherlink"
