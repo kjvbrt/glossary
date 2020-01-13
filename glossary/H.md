@@ -9,6 +9,8 @@ Like the «ECAL», it is a sampling calorimeter made of layers of iron and plast
 
 Software trigger. Software that decides if data from the detectore gets written to storage or thrown away. Trigger Studies for FCC are in its early stages and no implementations exist yet
 
+## HOM: Higher Order Modes
+
 ## HS06
 HEP-wide benchmark for measuring CPU performance based on the [SPEC2006 benchmark](https://www.spec.org).
 
