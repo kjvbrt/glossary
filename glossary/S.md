@@ -10,3 +10,4 @@ Former "default" Linux operating system at CERN (SLC6 default operating system o
 
 A computing centre hosting grid computing services. For example: `IN2P3-LAPP`.
 
+## SR: Synchrotron Radiation
