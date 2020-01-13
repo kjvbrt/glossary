@@ -14,6 +14,10 @@ Its purpose is to discriminate between electrons, photons and hadrons as well as
 
 ## CDR: Conceptual Design Report
 
+## CLD
+
+CLD (CLIC-like  Detector) Detector concept for FCC-ee
+
 ## CVMFS: CERN Virtual Machine File System {#CVMFS}
 
 [CVMFS](https://cernvm.cern.ch/portal/filesystem) is a network file system based on HTTP and optimised to deliver experiment software
