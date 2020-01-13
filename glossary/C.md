@@ -18,3 +18,5 @@ Its purpose is to discriminate between electrons, photons and hadrons as well as
 
 [CVMFS](https://cernvm.cern.ch/portal/filesystem) is a network file system based on HTTP and optimised to deliver experiment software
 in a fast, scalable, and reliable way through sophisticated caching strategies.
+
+## Condor: see HTCondor
