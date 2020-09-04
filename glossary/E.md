@@ -16,3 +16,12 @@ Software package for simulating the decays of heavy flavour particles using a wi
 [_Website_](https://evtgen.hepforge.org).
 
 ## ERL: Energy Recovery Linac
+
+
+## EDM: Event Data Model
+
+Schema describing simulated and recorded data, also: "types and branches used in the root files".
+
+## EDM4HEP
+
+Event Data Model used for Key4HEP.
