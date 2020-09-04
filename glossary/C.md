@@ -14,7 +14,7 @@ Its purpose is to discriminate between electrons, photons and hadrons as well as
 
 ## CDR: Conceptual Design Report
 
-## CLD
+## CLD: CLIC-like Detector
 
 CLD (CLIC-like  Detector) Detector concept for FCC-ee
 
