@@ -1,5 +1,11 @@
 {
+  "title": "FCC Glossary",
   "author": "The FCC Software team and contributors",
+  "description": "Glossary of HEP and FCC-specific terms and concepts",
+  "license": "CC BY 4.0 EN",
+  "language": "en",
+  "repo": "https://github.com/HEP-FCC/glossary",
+  "root": ".",
   "structure": {
       "readme": "gitbook_readme.md"
   },
