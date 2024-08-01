@@ -33,11 +33,12 @@ By contributing, you are agreeing that we may redistribute your work under [CC-B
 
 ## Dependencies
 
-To build the glossary locally, following the instructions here:
+To build the glossary locally, first follow the instructions how to install
+`gitbook-cli`:
 
-1. [Gitbook](https://github.com/GitbookIO/gitbook)
+1. [Gitbook](https://github.com/GitbookIO/gitbook-cli)
 
-Install the Gitbook plugins:
+Afterwards, install the Gitbook plugins:
 
 ```shell
 $ gitbook install

@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
     branches:
-      - update-ci
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -15,5 +15,5 @@ jobs:
       - name: Gitbook Action
         uses: ZanderZhao/gitbook-action@master
         with:
-          source_branch: update-ci
+          source_branch: main
           token: ${{ secrets.FCC_GLOSSARY_TOKEN }}

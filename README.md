@@ -1,8 +1,8 @@
 # FCC Glossary
 
-![example workflow](https://github.com/HEP-FCC/glossary/actions/workflows/publish.yml/badge.svg)
+![publish workflow](https://github.com/HEP-FCC/glossary/actions/workflows/publish.yml/badge.svg)
 
-Glossary of HEP and FCC-specific terms and concepts --- online at <https://HEP-FCC.github.io/glossary/>.
+Glossary of HEP and FCC-specific terms and concepts &mdash; online at <https://HEP-FCC.github.io/glossary/>.
 
 Contributions to the glossary are highly encouraged. Please see the
 [contributing guide](https://github.com/HEP-FCC/glossary/blob/master/CONTRIBUTING.md)
