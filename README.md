@@ -6,7 +6,7 @@ Glossary of HEP and FCC-specific terms and concepts --- online at <https://HEP-F
 
 Contributions to the glossary are highly encouraged. Please see the
 [contributing guide](https://github.com/HEP-FCC/glossary/blob/master/CONTRIBUTING.md)
-for details.
+in the [GitHub repository](https://github.com/HEP-FCC/glossary) for details.
 
 
 ## Jump to a section
