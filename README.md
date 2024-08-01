@@ -1,6 +1,6 @@
 # FCC Glossary
 
-[![Build Status](https://travis-ci.com/HEP-FCC/glossary.svg?branch=master)](https://travis-ci.com/HEP-FCC/glossary)
+![example workflow](https://github.com/HEP-FCC/glossary/actions/workflows/publish.yml/badge.svg)
 
 Glossary of HEP and FCC-specific terms and concepts --- online at <https://HEP-FCC.github.io/glossary/>.
 
