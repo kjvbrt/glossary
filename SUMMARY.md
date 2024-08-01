@@ -1,6 +1,6 @@
-# LHCb Glossary
+# FCC Glossary
 
-Glossary of HEP and LHCb-specific terms and concepts.
+Glossary of HEP and FCC-specific terms and concepts.
 
 * [**A**](glossary/A.md)
 * [**B**](glossary/B.md)
