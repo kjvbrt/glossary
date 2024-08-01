@@ -1,0 +1,19 @@
+name: 'Publish'
+on:
+  pull_request:
+  push:
+    branches:
+      - update-ci
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout action
+        uses: actions/checkout@v4
+      - name: Prepare summary
+        run: python3 .ci/prepare.py
+      - name: Gitbook Action
+        uses: ZanderZhao/gitbook-action@master
+        with:
+          source_branch: update-ci
+          token: ${{ secrets.FCC_GLOSSARY_TOKEN }}
