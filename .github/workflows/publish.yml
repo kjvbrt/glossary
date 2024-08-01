@@ -2,17 +2,17 @@ name: 'Publish'
 on:
   push:
     branches:
-      - main
+      - summary
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout action
         uses: actions/checkout@v4
-      - name: Prepare summary
-        run: python3 .ci/prepare.py
+      # - name: Prepare summary
+      #   run: python3 .ci/prepare.py
       - name: Gitbook Action
         uses: ZanderZhao/gitbook-action@master
         with:
-          source_branch: main
+          source_branch: summary
           token: ${{ secrets.FCC_GLOSSARY_TOKEN }}
