@@ -1,9 +1,15 @@
-# FCC Glossary   [![Build Status](https://travis-ci.com/HEP-FCC/glossary.svg?branch=master)](https://travis-ci.com/HEP-FCC/glossary)
+# FCC Glossary
 
-Glossary of HEP and FCC-specific terms and concepts - online at <https://HEP-FCC.github.io/glossary/>.
+![publish workflow](https://github.com/HEP-FCC/glossary/actions/workflows/publish.yml/badge.svg)
 
-This is a fork of the original page created at LHCb, a project which is highly appreciated!
+Glossary of HEP and FCC-specific terms and concepts &mdash; online at <https://HEP-FCC.github.io/glossary/>.
 
+Contributions to the glossary are highly encouraged. Please see the
+[contributing guide](https://github.com/HEP-FCC/glossary/blob/master/CONTRIBUTING.md)
+in the [GitHub repository](https://github.com/HEP-FCC/glossary) for details.
+
+
+## Jump to a section
 
 [**A**](glossary/A.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [**B**](glossary/B.md)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,5 +39,5 @@ This is a fork of the original page created at LHCb, a project which is highly a
 [**Z**](glossary/Z.md)
 
 
-Contributions to the glossary are highly encouraged. Please see the
-[contributing guide](https://github.com/HEP-FCC/glossary/blob/master/CONTRIBUTING.md) for details.
+This is a fork of the original page created at
+[LHCb](https://lhcb.github.io/glossary/), a project which is highly appreciated!
