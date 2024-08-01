@@ -1,0 +1,25 @@
+name: 'Publish'
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout action
+        uses: actions/checkout@v4
+      - name: Prepare summary
+        run: python3 .ci/prepare.py
+      - name: Gitbook Action
+        if: github.event_name == 'push'
+        uses: ZanderZhao/gitbook-action@master
+        with:
+          token: ${{ secrets.FCC_GLOSSARY_TOKEN }}
+      - name: Gitbook Action Test
+        if: github.event_name == 'pull_request'
+        uses: ZanderZhao/gitbook-action@master
+        with:
+          token: ${{ secrets.FCC_GLOSSARY_TOKEN }}
+          publish_branch: 'gh-pages-test'
